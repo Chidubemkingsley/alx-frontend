@@ -1,6 +1,6 @@
 # alx-frontend
 
-<p align="center"><img src="https://github.com/felipesv/holbertonschool-web_front_end/blob/master/main_header.png" alt="diagrama"></a></p>
+![image](https://github.com/IamNaeto/alx-frontend/assets/105589308/9bcbbd7e-bc08-482c-8d7e-c128cf0775c3)
 
 ## Description
 All the projects created during the specialization are:
@@ -15,4 +15,3 @@ All the projects created during the specialization are:
 ## Author
 * **Rubeluchukwuisi Chidubem Kingsley** - [Chidubemkingsley](https://github.com/Chidubemkingsley)
 
-![image](https://github.com/IamNaeto/alx-frontend/assets/105589308/9bcbbd7e-bc08-482c-8d7e-c128cf0775c3)
