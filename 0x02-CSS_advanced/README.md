@@ -1,7 +1,7 @@
 ##  0x02. Advanced CSS
 CSSFront-end
 
-![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240715T232204Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6a159357b8c5ab1e3891707bf01b737bf3b5d57f2df84c4085d327c0c200b628)
+![image](duddy.jpg)
 
 ### Resources
 
